@@ -5,8 +5,8 @@ public class TEST {
 	private int seonBin;
 	private int im;
 	private int babo;
-	private String jinhwi;
-	private String jjangjjang;
+	private int jinhwi;
+	private int jjangjjang;
 	
 	public TEST() {
 		seonBin = 1;
